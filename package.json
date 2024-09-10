@@ -1,0 +1,14 @@
+{
+  "name": "dsa-take-u-forward",
+  "version": "1.0.0",
+  "description": "This is a repo in which I am solving problems from strivers DSA sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
